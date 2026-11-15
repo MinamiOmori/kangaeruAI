@@ -1,0 +1,6 @@
+{
+  "name": "思考の練習場｜自律型AI学習スタジオ",
+  "description": "宿題や課題の丸投げを防ぎ、問いかけ・ファクトチェック・類題演習・多角的視点を通じて生徒の思考力と判断力を引き出す学校向けAI練習場",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
